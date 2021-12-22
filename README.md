@@ -44,7 +44,6 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
    docker-compose up --build -d
    ```
 
----
 
 ## ENV configuration of Docker
 
