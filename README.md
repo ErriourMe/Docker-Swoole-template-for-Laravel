@@ -27,7 +27,7 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
    ```
 2. Copy file .env.example to .env and change data to own
 
-3. **Create** or **Put** your laravel project in the folder.
+3. **Create** or **Put** your [laravel project](https://laravel.com) in the folder.
 
 4. Install [laravel-swoole](https://github.com/swooletw/laravel-swoole) package and configure. You have to add following params to your laravel .env file:
 
