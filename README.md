@@ -36,7 +36,7 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
    SWOOLE_HTTP_WEBSOCKET=true
    ```
 
-5. Temporary problem: laravel-swoole doesn't support OpenSwoole yet. To fix it, you should add this code to package manually: [Added openswoole extension check compatibility #506](https://github.com/swooletw/laravel-swoole/pull/506)
+5. **Temporary problem**: laravel-swoole doesn't support OpenSwoole yet. To fix it, you should add this code to package manually: [Added openswoole extension check compatibility #506](https://github.com/swooletw/laravel-swoole/pull/506)
 
 4. Build the project with the next commands:
 
