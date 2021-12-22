@@ -32,7 +32,8 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
 4. Install [laravel-swoole](https://github.com/swooletw/laravel-swoole) package and configure.
    
    ```
-   composer require swooletw/laravel-swoole 
+   composer require swooletw/laravel-swoole
+   php artisan vendor:publish --tag=laravel-swoole
    ```
     
    You have to add following params to your laravel .env file:
