@@ -1,6 +1,8 @@
 # Docker Swoole template for Laravel
 
-![Screenshot](logo.png)
+<p align="center">
+  <img width="300" height="300" src="logo.png">
+</p>
 
 A Docker Compose workflow for start PHP scripts or Laravel project using Swoole without Laravel Octane and laravel Sail.
 
