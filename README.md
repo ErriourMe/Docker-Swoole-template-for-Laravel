@@ -29,7 +29,13 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
 
 3. **Create** or **Put** your [laravel project](https://laravel.com) in the folder.
 
-4. Install [laravel-swoole](https://github.com/swooletw/laravel-swoole) package and configure. You have to add following params to your laravel .env file:
+4. Install [laravel-swoole](https://github.com/swooletw/laravel-swoole) package and configure.
+   
+   ```
+   composer require swooletw/laravel-swoole 
+   ```
+    
+   You have to add following params to your laravel .env file:
 
    ```
    SWOOLE_HTTP_HOST=0.0.0.0
